@@ -85,5 +85,5 @@ A3. Data sources
     • Dim Product.csv: 220 products, includes ListPriceEUR, IsGeneric, Category, Brand 
     • Dim Pharmacy.csv:120 pharmacy locations across multiple European countries 
 
-A4. Notebook reference Source analysis: Generic vs Brand Analysis.ipynb
+A4. Notebook reference Source analysis: [Generic vs Brand Analysis.ipynb](https://github.com/andisiwencambaca/brand-vs-generic-competitive-analysis/blob/main/Generic%20vs%20Brand%20Analysis.ipynb)
 
